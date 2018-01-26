@@ -86,5 +86,6 @@ You can find some of the best documentation available on the web at [docs.syncth
 
 ## Versions
 
++ **26.01.18:** Rebase to alpine 3.7.
 + **25.10.17:** Add env for manual setting of umask.
 + **29.07.17:** Initial Release.
